@@ -7,6 +7,7 @@ The Monte Carlo method has long been recognised as a powerful technique for perf
 We highlight how these advanced algorithms have expanded the applicability of Monte Carlo methods, allowing physicists to investigate fundamental interactions, particle behaviour, and even aspects of quantum gravity. By examining this progression from simpler models to more abstract applications, the report illustrates the flexibility and growing importance of Monte Carlo simulations in modern physics.
 
 ### Results
+![Z-n Model](./Zn-model.gif)
 
 
 Below is the link containing all the refered sources and previous versions of codes and report: </br>

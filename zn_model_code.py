@@ -139,3 +139,5 @@ plt.ylabel("Susceptibility")
 
 plt.tight_layout()
 plt.show()
+
+output_path

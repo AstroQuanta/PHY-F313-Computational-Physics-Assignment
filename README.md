@@ -1,4 +1,4 @@
-# PHY-F313-Computational-Physics-Assignment
+# PHY-F313-Computational Physics Assignment (Group-3)
 ## Monte Carlo Method for simulating Stochastic Systems: ![Equation](https://latex.codecogs.com/png.latex?\mathbb{Z}_{n}) (Clock) model
 Metropolis-Hasting algorithm for simulating Clock Model and estimation of critical exponents.
 
